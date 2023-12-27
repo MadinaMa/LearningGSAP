@@ -1,1 +1,1 @@
-GSAP learnig
+GSAP learnings 
